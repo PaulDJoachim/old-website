@@ -9,7 +9,7 @@ body {
 }
 
 #page-wrap { 
-  width: 850px; margin: 40px auto 60px; 
+  width: 800px; margin: 40px auto 60px; 
 }
 
 #pic { 
@@ -57,7 +57,7 @@ dt {
 }
 
 dd { 
-  width: 600px; float: right; 
+  width: 650px; float: right; 
 }
 
 dd.clear {
